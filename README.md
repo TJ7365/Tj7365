@@ -45,9 +45,11 @@ My goal is to combine financial theory, data science, and disciplined risk manag
 
 ## Projects
 
-- Quant Strategy Pipeline (SMA + Risk Management)
-- Ongoing Alpha Strategy Development
-- Financial Data Analysis Tools
+| Project | Description |
+|---|---|
+| [Quant Strategy Pipeline](https://github.com/TJ7365/quant-strategy-pipeline) | End-to-end backtesting engine with EMA crossover, ATR risk management, VIX regime filtering, and Streamlit dashboard |
+| [OptionSight](https://github.com/TJ7365/OptionSight) | Options pricing & risk dashboard combining Black-Scholes, GARCH(1,1), and Monte Carlo simulation |
+| [SMA Crossover Backtesting Engine](https://github.com/TJ7365/sma-crossover-backtester) | Python backtester for 20/50-day SMA crossover strategy on SPY/QQQ with Excel export |
 
 ---
 

@@ -1,6 +1,6 @@
 # Hi, I'm TJ 
 
-Finance & FinTech Major  
+Finance Major  FinTech Concentration   
 Aspiring Quantitative Analyst  
 Systematic Trading Developer  
 
@@ -14,16 +14,23 @@ My goal is to combine financial theory, data science, and disciplined risk manag
 
 ---
 
-##  Current Focus
-
-- Building a Quant Strategy Backtesting Engine
-- Developing Risk-Managed Trading Systems
-- Performance Metrics: CAGR, Sharpe Ratio, Max Drawdown
-- Multi-Asset Strategy Development
-- Data-Driven Decision Making
+## Current Focus
+- Building and refining systematic trading strategies to outperform the S&P 500
+- Developing OptionSight — an options pricing, risk, and prediction platform
+- Expanding into multi-asset portfolio construction and volatility modeling
+- Applying GARCH, Monte Carlo, and ML models to real market data
+- Pursuing quantitative analyst and data analytics internships
 
 ---
+## Projects
 
+| Project | Description |
+|---|---|
+| [Quant Strategy Pipeline](https://github.com/TJ7365/quant-strategy-pipeline) | Backtesting engine using hedging methods to attempt to beat the S&P 500 — tracks CAGR, Sharpe Ratio, and Max Drawdown across multi-run comparisons |
+| [OptionSight](https://github.com/TJ7365/OptionSight) | Options pricing & risk dashboard — Black-Scholes, GARCH volatility, Monte Carlo simulation, Greeks analysis, and ML-powered opening price predictor |
+| [SMA Crossover Backtesting Engine](https://github.com/TJ7365/sma-crossover-backtester) | Python backtester for 20/50-day SMA crossover strategy on SPY/QQQ with Excel export |
+
+---
 ## Technical Skills
 
 **Languages & Tools**
@@ -42,8 +49,6 @@ My goal is to combine financial theory, data science, and disciplined risk manag
 - Performance Analytics
 
 ---
-
-## Projects
 
 ## Projects
 

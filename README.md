@@ -45,10 +45,12 @@ My goal is to combine financial theory, data science, and disciplined risk manag
 
 ## Projects
 
+## Projects
+
 | Project | Description |
 |---|---|
-| [Quant Strategy Pipeline](https://github.com/TJ7365/quant-strategy-pipeline) | End-to-end backtesting engine with EMA crossover, ATR risk management, VIX regime filtering, and Streamlit dashboard |
-| [OptionSight](https://github.com/TJ7365/OptionSight) | Options pricing & risk dashboard combining Black-Scholes, GARCH(1,1), and Monte Carlo simulation |
+| [Quant Strategy Pipeline](https://github.com/TJ7365/quant-strategy-pipeline) | Backtesting engine using hedging methods to attempt to beat the S&P 500 — tracks CAGR, Sharpe Ratio, and Max Drawdown across multi-run comparisons |
+| [OptionSight](https://github.com/TJ7365/OptionSight) | Options pricing & risk dashboard — Black-Scholes, GARCH volatility, Monte Carlo simulation, Greeks analysis, and ML-powered opening price predictor |
 | [SMA Crossover Backtesting Engine](https://github.com/TJ7365/sma-crossover-backtester) | Python backtester for 20/50-day SMA crossover strategy on SPY/QQQ with Excel export |
 
 ---
